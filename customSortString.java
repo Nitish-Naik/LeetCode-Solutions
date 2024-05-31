@@ -1,5 +1,5 @@
-class Solution {
-    public String customSortString(String order, String s) {
+class customSortString {
+    public String customSortString1(String order, String s) {
         StringBuilder rearranged = new StringBuilder();
         
         // Count characters in s
