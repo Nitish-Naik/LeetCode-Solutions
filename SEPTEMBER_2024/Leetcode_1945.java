@@ -32,4 +32,8 @@ public class Leetcode_1945 {
     public static void main(String[] args) {
         System.out.println(getLucky("zbax", 2));
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main
