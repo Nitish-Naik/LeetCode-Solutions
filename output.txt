@@ -1,0 +1,16 @@
+Sentence: hello world this is a test
+Search Word: this
+Result: 3
+
+Sentence: i am tired today
+Search Word: am
+Result: 2
+
+Sentence: programming in java is fun
+Search Word: java
+Result: 3
+
+Sentence: welcome to the coding world
+Search Word: code
+Result: -1
+
